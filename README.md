@@ -1,5 +1,6 @@
 # Anime_Recommendation_System_Analysis
 This project aims to analyze anime datasets to understand the user behavior, and the find out critical columns for building a recommendation system for the anime platform.
+
 **Executive Summary**
 The project discovers anime users' demographics and rating patterns in order to find out what animes they like, and in what ways an anime platform can build a recommendation system.
 
@@ -8,5 +9,6 @@ In the data cleaning phase, we joined 3 data sets and kept 19 critical columns s
 The next step is discovering what factors to choose to build a recommendation system. The results reveals that there's no significant differences in preferences among groups with different demographic variables, and users exhibit high rating stability (low variance within genre/type/source). This implies that we can use a user's preference on genre, type, and source to predict what animes the user will like.
 
 In conclusion, this project points out that an item-based recommendation approach could be more suitable than user-based approach.
+
 **Business Value**
 Enhance anime platforms' ability to increase user engagement by airing and recommendating proper contents, driving sustainable growth.
